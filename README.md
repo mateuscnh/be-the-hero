@@ -32,11 +32,11 @@ Aplicação com intuito de conectar pessoas interessadas em ajudar ONGS. Desenvo
     </tr>
     <tr>
       <td>ExpressJs</td>
+      <td>Axios</td>
+      <td>Axios</td>
     </tr>
     <tr>
       <td>SqLite</td>
-      <td>Axios</td>
-      <td>Axios</td>
     </tr>
     <tr>
       <td>Nodemon</td>
