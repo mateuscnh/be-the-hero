@@ -1,19 +1,19 @@
 
-# Be The Hero Dark
+# Be The Hero
 Aplicação com intuito de conectar pessoas interessadas em ajudar ONGS. Desenvolvida com Node.js, ReactJS e React Native.
 
-### Front-end
+### FRONT-END
 ![image](github/WebLogon.png)
 ![image](github/WebRegister.png)
 ![image](github/WebIncidents.png)
 ![image](github/WebRegisterIncident.png)
 
-### Mobile
+### MOBILE
 ![splash](github/Mobile.jpg)
 ![incidents](github/MobileIncidents.jpg)
-![details](github/MobileDetails.jpg)
+![details](github/MobileDetail.jpg)
 
-### Back-end:
+### BACK-END:
 ![image](github/Back-End.png)
 
 ## :rocket: Tecnologias
